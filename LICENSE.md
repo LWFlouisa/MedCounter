@@ -11,7 +11,7 @@ Contributors of source code must be vetted by someone whom had previously worked
 
 You are not allowed to do pull requests whose main "contribution" is changing the read me, do to the rise of scammers whom engage in such activities. Such changes ( if collaborative ) must be discussed and considered before any potential breaking changes is made to the software.
 
-#Using LLMs for the purpose of contribute to this repository is considered in violation of this agreement.
+Using LLMs for the purpose of contribute to this repository is considered in violation of this agreement.
 
 ## Leasing
 This software shall not be leased for profit for those whom wish to use ot for personal uses, but AA and AAA must pay a license fee in order to be able to use and request features. And this developer reserves the exclusive right to refuse requests that are deemed to not be in the public's best interest such as contribution to the public benefit for public education.
